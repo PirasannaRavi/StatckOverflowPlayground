@@ -1,0 +1,14 @@
+/Users/Alligator/Projects/StatckOverflowPlayground/bin/Debug/netcoreapp3.0/StatckOverflowPlayground
+/Users/Alligator/Projects/StatckOverflowPlayground/bin/Debug/netcoreapp3.0/StatckOverflowPlayground.deps.json
+/Users/Alligator/Projects/StatckOverflowPlayground/bin/Debug/netcoreapp3.0/StatckOverflowPlayground.runtimeconfig.json
+/Users/Alligator/Projects/StatckOverflowPlayground/bin/Debug/netcoreapp3.0/StatckOverflowPlayground.runtimeconfig.dev.json
+/Users/Alligator/Projects/StatckOverflowPlayground/bin/Debug/netcoreapp3.0/StatckOverflowPlayground.dll
+/Users/Alligator/Projects/StatckOverflowPlayground/bin/Debug/netcoreapp3.0/StatckOverflowPlayground.pdb
+/Users/Alligator/Projects/StatckOverflowPlayground/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/Alligator/Projects/StatckOverflowPlayground/obj/Debug/netcoreapp3.0/StatckOverflowPlayground.csprojAssemblyReference.cache
+/Users/Alligator/Projects/StatckOverflowPlayground/obj/Debug/netcoreapp3.0/StatckOverflowPlayground.csproj.CoreCompileInputs.cache
+/Users/Alligator/Projects/StatckOverflowPlayground/obj/Debug/netcoreapp3.0/StatckOverflowPlayground.AssemblyInfoInputs.cache
+/Users/Alligator/Projects/StatckOverflowPlayground/obj/Debug/netcoreapp3.0/StatckOverflowPlayground.AssemblyInfo.cs
+/Users/Alligator/Projects/StatckOverflowPlayground/obj/Debug/netcoreapp3.0/StatckOverflowPlayground.csproj.CopyComplete
+/Users/Alligator/Projects/StatckOverflowPlayground/obj/Debug/netcoreapp3.0/StatckOverflowPlayground.dll
+/Users/Alligator/Projects/StatckOverflowPlayground/obj/Debug/netcoreapp3.0/StatckOverflowPlayground.pdb
